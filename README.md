@@ -1,5 +1,6 @@
 # BREAST CANCER PREDICTION
-Both notebook contain code and solution of logistic regression for the same dataset; 
+
+All three notebooks contain code and solution for logistic regression for the same dataset; 
 The Wisconsin Breast Cancer dataset while using different approach
 
 While Note A took a different approach by not handliing the class imbalance during traning
